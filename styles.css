@@ -1,0 +1,16 @@
+body {
+    background-color: powderblue; 
+   }
+   h1{
+    color: #133E87;
+    }
+    h3{
+    color: #133E87;
+    }
+    hr {
+     border-style: dotted none none none;
+     border-color: grey;
+     border-width: 5px;
+     height: 0;
+     width: 3%;
+    }
